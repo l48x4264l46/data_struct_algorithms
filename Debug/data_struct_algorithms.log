@@ -1,0 +1,8 @@
+﻿  mainExecuter.c
+D:\WorkSpace\own\c\data_struct_algorithms\data_struct_algorithms\binTNode.h(1,1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\WorkSpace\own\c\data_struct_algorithms\data_struct_algorithms\binTNode.h(14,2): warning C4091: “typedef ”: 没有声明变量时忽略“BinTNode”的左侧
+D:\WorkSpace\own\c\data_struct_algorithms\data_struct_algorithms\mainExecuter.c(44,36): warning C4013: “malloc”未定义；假设外部返回 int
+D:\WorkSpace\own\c\data_struct_algorithms\data_struct_algorithms\mainExecuter.c(44,1): warning C4047: “初始化”:“BinTNode *”与“int”的间接级别不同
+D:\WorkSpace\own\c\data_struct_algorithms\data_struct_algorithms\binTNode.h(56): warning C4717: “traversalPostOrder”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+D:\WorkSpace\own\c\data_struct_algorithms\data_struct_algorithms\binTNode.h(43): warning C4717: “traversalInOrder”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+  data_struct_algorithms.vcxproj -> D:\WorkSpace\own\c\data_struct_algorithms\data_struct_algorithms\Debug\data_struct_algorithms.exe
